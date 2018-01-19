@@ -1,0 +1,28 @@
+﻿  Weapon.cpp
+  Source.cpp
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\source.cpp(424): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  myPlayer.cpp
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\myplayer.cpp(144): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  myGame.cpp
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(269): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(273): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(364): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(368): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(466): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(492): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(518): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(544): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(572): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(598): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(624): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(650): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  myEnemy2.cpp
+  myEnemy.cpp
+  myAttributes.cpp
+  Generating Code...
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(172): warning C4715: 'Game::GetLevelsXp': not all control paths return a value
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(162): warning C4715: 'Game::GetLevels': not all control paths return a value
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(178): warning C4715: 'Game::GetLevelStartingCoordX': not all control paths return a value
+c:\users\javie\documents\ct4toga\ct4toga year 1 project\final\opengl+console\opengl+console\opengl+console\mygame.cpp(182): warning C4715: 'Game::GetLevelStartingCoordY': not all control paths return a value
+  OpenGL+Console.vcxproj -> C:\Users\javie\Documents\CT4TOGA\CT4TOGA year 1 project\Final\OpenGL+Console\OpenGL+Console\Debug\OpenGL+Console.exe
+  OpenGL+Console.vcxproj -> C:\Users\javie\Documents\CT4TOGA\CT4TOGA year 1 project\Final\OpenGL+Console\OpenGL+Console\Debug\OpenGL+Console.pdb (Partial PDB)
